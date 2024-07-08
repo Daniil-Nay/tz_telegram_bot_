@@ -1,0 +1,36 @@
+{
+  "en": {
+    "start": "<b>This bot is a programming realization of technical task.</b> To check available commands, use:\n/help",
+    "help": "<b>/start</b> - the initializating command\n<b>/buttons</b> - several buttons (from 1 to 4) as part of technical task\n<b>/text_input</b> - last command of techincal task to input date",
+    "Map_button": "Map button to check Lenina 1",
+    "Payment_button": "Payment button",
+    "Picture_button": "Image attached button",
+    "A2_button": "Get A2 button",
+    "text settings": "Technical realization (buttons).",
+    "writing_city_iteration_1": "Write city to check Lenina 2 there",
+    "google_excel_successfull": "It was successfully saved:\nTable: {table.title}\nWorksheet: {worksheet.title}\nCell: {cell}",
+    "writing_city_iteration_2": "Link to Yandex.Maps for address {address}, {city}: [Open map]({yandex_maps_url})",
+    "payment_button_iteration_1": "To make payment, follow the link:\n[Pay]({payment_link})",
+    "payment_success": "Payment successful!",
+    "payment_failure": "An error occurred while creating payment link.",
+    "cats_picture": "Here's a picture of a cat!",
+    "error_text_cats_picture": "Error fetching cat picture :("
+  },
+  "ru": {
+    "start": "<b>Данный бот является программной реализацией ТЗ.</b> Чтобы проверить доступные команды, используйте:\n/help",
+    "help": "<b>/start</b> - начальная команда\n<b>/buttons</b> - несколько кнопок (от 1 до 4) в рамках технического задания\n<b>/text_input</b> - последняя команда технического задания для ввода даты",
+    "Map_button": "Кнопка для просмотра карты Ленина 1",
+    "Payment_button": "Кнопка оплаты",
+    "Picture_button": "Кнопка с картинкой",
+    "A2_button": "Кнопка A2",
+    "text settings": "Техническая реализация (кнопки).",
+    "writing_city_iteration_1": "Введите город для проверки Ленина 2",
+    "google_excel_successfull": "Успешно сохранено:\nТаблица: {table.title}\nЛист: {worksheet.title}\nЯчейка: {cell}",
+    "writing_city_iteration_2": "Ссылка на Яндекс.Карты для адреса {address}, {city}: [Открыть карту]({yandex_maps_url})",
+    "payment_button_iteration_1": "Для оплаты перейдите по ссылке:\n[Оплатить]({payment_link})",
+    "payment_success": "Оплата прошла успешно!",
+    "payment_failure": "Произошла ошибка при создании ссылки на оплату.",
+    "cats_picture": "Ловите картинку котика!",
+    "error_text_cats_picture": "Ошибка при получении картинки котика :("
+  }
+}

@@ -1,0 +1,1 @@
+from lexicon_data.localization_handler import handlers_text

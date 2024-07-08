@@ -1,0 +1,6 @@
+aiogram~=3.9.0
+python-dotenv~=1.0.1
+YooMoney~=0.1.0
+requests~=2.32.3
+gspread~=6.1.2
+aiofiles~=23.2.1
